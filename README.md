@@ -19,7 +19,9 @@ Resources:
 
 Project detail:
 Project is developed using Visual Studio 2019, Windows Forms App (.NET Framework) and Coded in C#.
+
 Prerequisites: 
 Prerequisites are already added into the build
+
 Running:
 Download Project and Open in Visual Studio 2019, Build and run the project. One can also run the project directly through EXE file in Debug folder of Project part at ‘’Project folder path”\MinerFeeCalc\bin\Debug
