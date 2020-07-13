@@ -16,3 +16,10 @@ Resources:
 (2)https://ycharts.com/indicators/bitcoin_average_transactions_per_block
 (3)https://www.blockchain.com/charts/blocks-size
 (4)https://en.bitcoin.it/wiki/Miner_fees#:~:text=Including%20in%20Blocks,-This%20section%20describes&text=Then%20transactions%20that%20pay%20a,more%20than%20750%2C000%20bytes%20big.&text=Transactions%20are%20added%20highest%2Dpriority,this%20section%20of%20the%20block.
+
+Project detail:
+Project is developed using Visual Studio 2019, Windows Forms App (.NET Framework) and Coded in C#.
+Prerequisites: 
+Prerequisites are already added into the build
+Running:
+Download Project and Open in Visual Studio 2019, Build and run the project. One can also run the project directly through EXE file in Debug folder of Project part at ‘’Project folder path”\MinerFeeCalc\bin\Debug
